@@ -1,4 +1,4 @@
 const express = require("express");
 const app = express();
 
-app.listen(3000, console.log("서버 작동"));
+app.listen(5000, console.log("서버 작동"));

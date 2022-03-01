@@ -1,2 +1,12 @@
 만드는 방법
+기초설정으로 서버폴더랑 클라이언트 폴더를 만들고 npm init --y 한다.
 1.npx create-react-app client로 react를 깐다.
+
+
+▶gotcha
+React Act Functional Component Exports 를 하면 자동완성
+
+
+▶프론트단 코딩
+1.프론트엔드 라우터를 설정한다.
+  react-router-dom 설치 , 
