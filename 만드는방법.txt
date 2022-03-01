@@ -1,0 +1,2 @@
+만드는 방법
+1.npx create-react-app client로 react를 깐다.
